@@ -6,11 +6,8 @@
 
 ######HOWBOUT ANOTHER
 - [ ] why not?
-<<<<<<< HEAD
-=======
 
 Guess I really like checkboxes
 - [ ] Oh yeah.
 - [ ] Theyre awesome
-- [ ] How could you not love checkboxes?!? 
->>>>>>> georgefabian-changes
+- [ ] How could you not love checkboxes?!?
