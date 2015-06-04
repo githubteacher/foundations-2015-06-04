@@ -1,7 +1,7 @@
 ## A little about me
 - I live in Scripps Ranch, San Diego
-- I am married, two kids, one dog
+- I am married, two kids, one dog named Teddy
 
 My hobbies are:
-- Playing sports
-- Painting
+- Playing sports, tennis, basketball and mountain biking
+- Painting, acrylic
