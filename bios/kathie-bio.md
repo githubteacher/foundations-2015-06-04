@@ -3,5 +3,5 @@
 - I am married, two kids, one dog
 
 My hobbies are:
-- Playing sports
-- Painting
+- Playing sports, tennis, basketball and mountain biking
+- Painting, acrylic
