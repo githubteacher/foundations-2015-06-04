@@ -10,3 +10,5 @@ Software engineer - Intuit - FNF Team
 - I have 1 cat.
 
 - I drive a prius.
+- does this view support emoji's? :alien:
+- 
