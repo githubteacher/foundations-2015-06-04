@@ -10,4 +10,4 @@
 Guess I really like checkboxes
 - [ ] Oh yeah.
 - [ ] Theyre awesome
-- [ ] How could you not love checkboxes?!?!?!
+- [ ] How could you not love checkboxes?!? 
