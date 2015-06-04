@@ -2,4 +2,4 @@
 
 - I live in SD, in Tierrasanta
 - I like hiking
-- I have 3 cats and 2 dogs and they are the best
+- I have 3 cats and 2 dogs and they are ALL the best
